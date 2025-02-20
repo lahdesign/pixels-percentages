@@ -71,3 +71,10 @@ body {
     width: 30%;
     height: auto;
 }
+
+/* settings for mobile layout */
+@media screen and (max-width: 750px) {
+    .icon-container {
+       gap: 10px;
+      }
+    }
